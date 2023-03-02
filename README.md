@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋, Greetings from George
+I'm a Front-End Developer. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
 
-<!--
-**yulo01/yulo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. Also I enjoy writing technical things ✍️ at my blog and medium.
 
-Here are some ideas to get you started:
+My preferred weapons of choice: 👇
+HTML / CSS
+Illustrator / Photoshop
+JavaScript / TypeScript / Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More info
+🌱 I am currently working on client projects and learning advanced things, I believe that every day is a learning opportunity.
+📫 How to reach me: giorgi.kuliashvili.1@btu.edu.ge
+💬 Ask me about Html5, CSS, JavaScript, Angular, Bootstrap.
+
+
+Keep in Touch
+
