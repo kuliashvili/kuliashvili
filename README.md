@@ -1,5 +1,7 @@
-<h1>Hi there 👋, Greetings from George</h1>
-I'm a Front-End Developer. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
+<h2>Hi there 👋, Greetings from George</h2>
+I'm a Front-End Developer. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. 
+<br>
+<br>
 
 I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. Also I enjoy writing technical things ✍️ at my blog and medium.
 
