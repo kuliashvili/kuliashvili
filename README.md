@@ -14,7 +14,7 @@ I like to create and contribute to open source projects. That helps me to learn 
 
 <h3>More info</h3>
 <ul>
-<li>🌱 I am currently working on client projects and learning advanced things, I believe that every day is a learning opportunity</li>
+<li>🌱 I am currently working on client projects and learning advanced things, I believe that every day is a learning opportunity.</li>
 <li>📫 How to reach me: giorgi.kuliashvili.1@btu.edu.ge</li>
 <li>💬 Ask me about Html5, CSS, JavaScript, Angular, Bootstrap</li>
   </ul>
