@@ -3,7 +3,7 @@ I'm a Front-End Developer. I describe myself as a passionate developer who loves
 <br>
 <br>
 
-I like to create and contribute to open source projects. That helps me to learn a ton of new stuff,  grow as a developer, and support other open source projects. Also I enjoy writing technical things about web ✍️
+I like to create and contribute to open source projects. That helps me to learn a ton of new stuff,  grow as a developer, and support other open source projects. Also I enjoy writing technical things about web ✍️.
 
 <h3>My preferred weapons of choice: 👇</h3>
 <ul>
