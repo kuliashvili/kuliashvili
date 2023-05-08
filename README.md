@@ -7,9 +7,9 @@ I like to create and contribute to open source projects. That helps me to learn 
 
 <h3>My preferred weapons of choice: 👇</h3>
 <ul>
-<li>HTML / CSS</li>
+<li>HTML / CSS / SCSS</li>
 <li>Illustrator / Photoshop</li>
-<li>JavaScript / TypeScript / Angular</li>
+<li>JavaScript / TypeScript / Angular / React</li>
   </ul>
 
 <h3>More info</h3>
