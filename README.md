@@ -9,7 +9,7 @@ I like to create and contribute to open source projects. That helps me to learn 
 <ul>
 <li>HTML / CSS / SCSS</li>
 <li>JavaScript / TypeScript / Angular / React</li>
-<li>Illustrator / Photoshop / After Effects</li>
+<li>Illustrator / Photoshop / After Effects / Figma </li>
 
   </ul>
 
