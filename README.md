@@ -8,14 +8,14 @@ I like to create and contribute to open source projects. That helps me to learn 
 <h3>My preferred weapons of choice: 👇</h3>
 <ul>
 <li>HTML / CSS / SCSS</li>
-<li>JavaScript / TypeScript / Angular / React</li>
-<li>Illustrator / Photoshop / After Effects / Figma </li>
+<li>JavaScript / React</li>
+<li>Figma / Photoshop / Illusstrator / XD / After Effects </li>
 
   </ul>
 
 <h3>More info</h3>
 <ul>
-<li>🌱 I am currently working, on client projects and learning advanced things, I believe that every day is a learning opportunity.</li>
+<li>🌱 I am currently working, learning advanced things, I believe that every day is a learning opportunity.</li>
   <li>📫 How to reach me: <b> giorgi.kuliashvili.1@btu.edu.ge </b> </li>
 <li>💬 Ask me about Html5, CSS, JavaScript, Angular, React</li>
   </ul>
