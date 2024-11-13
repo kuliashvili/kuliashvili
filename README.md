@@ -1,25 +1,19 @@
-<h2>Hi there 👋, Greetings from George</h2>
-I'm a Front-End Developer. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️
-<br>
-<br>
+<h2>Hi there 👋 I'm George</h2>
 
-I like to create and contribute to open source projects. That helps me to learn a ton of new stuff,  grow as a developer, and support other open source projects. Also I enjoy writing technical things about web ✍️.
+Disciplined and dedicated front-end developer specializing in React. I enjoy building web products that perform well, look great, and provide exceptional user experiences.
 
-<h3>My preferred weapons of choice: 👇</h3>
-<ul>
-<li>HTML / CSS / SCSS</li>
-<li>JavaScript / React / Next.js</li>
-<li>Figma / Photoshop / Illusstrator / XD / After Effects </li>
+### Tech Stack
 
-  </ul>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs)](https://skillicons.dev)
 
-<h3>More info</h3>
-<ul>
-<li>🌱 I am currently working, learning advanced things, I believe that every day is a learning opportunity.</li>
-  <li>📫 How to reach me: <b> giorgi.kuliashvili.1@btu.edu.ge </b> </li>
-<li>💬 Ask me about Html5, CSS, JavaScript, Angular, React, Next.js</li>
-  </ul>
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Frameworks/Libraries:** React.js, Next.js
+- **Tools:** Git, VS Code, Figma, Lighthouse, WhatFont, ColorPicker
+
+### Connect With Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/-George_Kuliashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kuliashvili/)](https://www.linkedin.com/in/kuliashvili/)
+[![Website Badge](https://img.shields.io/badge/-kuliashvili.com-black?style=flat-square&logo=firefox&logoColor=white&link=https://kuliashvili.com)](https://kuliashvili.com)
 
 
-<h3>Keep in Touch :)</h3>
-
+Feel free to reach out to me at: **giorgi.kuliashvili.1@btu.edu.ge**
