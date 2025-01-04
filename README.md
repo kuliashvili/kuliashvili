@@ -13,7 +13,7 @@ Disciplined and dedicated front-end developer specializing in React. I enjoy bui
 ### Connect With Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-George_Kuliashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kuliashvili/)](https://www.linkedin.com/in/kuliashvili/)
-[![Website Badge](https://img.shields.io/badge/-kuliashvili.com-black?style=flat-square&logo=firefox&logoColor=white&link=https://kuliashvili.com)](https://kuliashvili.com)
+[![Website Badge](https://img.shields.io/badge/-giokulo.com-black?style=flat-square&logo=firefox&logoColor=white&link=https://giokulo.com)](https://giokulo.com)
 
 
 Feel free to reach out to me at: **giorgi.kuliashvili.1@btu.edu.ge**
