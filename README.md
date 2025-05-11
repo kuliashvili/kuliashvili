@@ -4,10 +4,12 @@ Disciplined and dedicated front-end developer specializing in React. I enjoy bui
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,mysql)](https://skillicons.dev)
 
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Frameworks/Libraries:** React.js, Next.js
+- **Backend/Databases:** SQL, Python basics
+- **UI/UX** Familiar with UI/UX fundamentals and principles
 - **Tools:** Git, VS Code, Figma, Lighthouse, WhatFont, ColorPicker
 
 ### Connect With Me
